@@ -1,7 +1,9 @@
+```
 s_client{
 	int		id;
 	char	*buffer;
 }			t_client;
+```
 
 # int	extract_message()
  récupérer cette fonction directement depuis le main.c
